@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="marvel_red"> #ED1D24</color>
+    <color name="orange">#f39c12</color>
+    <color name="purple">#8e44ad</color>
+    <color name="pink">#ff4757</color>
+    <color name="yellow">#eccc68</color>
+    <color name="blue">#130f40</color>
+    <color name="azul_claro">#40739e</color>
+    <color name="grey">#353b48</color>
+    <color name="grey_dark">#2f3640</color>
+    <color name="green">#27ae60</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="ice">#ecf0f1</color>
+    <color name="ice_dark">#bdc3c7</color>
+    <color name="cp_blue_primary">#0066a6</color>
+    <color name="cp_blue_primary_dark">#005285</color>
+    <color name="black_document">#323232</color>
+    <color name="black_alpha">#12000000</color>
+    <color name="black_transparent">#8F000000</color>
+    <color name="red">#f00</color>
+    <color name="yellow_button">#f7a203</color>
+    <color name="yellow_button_two">#f7a202</color>
+    <color name="cp_orange_dark">#FE5900</color>
+    <color name="orange_star">#ff9f2b</color>
+    <color name="orange_brand">#F67700</color>
+    <color name="white_alpha">#88FFFFFF</color>
+    <color name="blue_grey">#4C556C</color>
+    <color name="grey_background">#DADADA</color>
+    <color name="grey_input">#BDBDBD</color>
+    <color name="grey_bg">#f7f8f8</color>
+    <color name="grey_bar_profile">#d2d2d2</color>
+    <color name="grey_text_profile">#747474</color>
+    <color name="grey_light">#66062c4c</color>
+    <color name="grey_more_light">#e6e7e8</color>
+    <color name="grey_more_light_alpha">#4Ce6e7e8</color>
+    <color name="grey_light_background">#f7f7f7</color>
+    <color name="grey_light_background_two">#fafafa</color>
+    <color name="grey_btn_disabled">#8BABCD</color>
+</resources>
